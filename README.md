@@ -1,6 +1,6 @@
 # TS3-ServerListEmulator
 
-[![N|Release](https://i.imgur.com/tUd0vOp.png)](https://nodesource.com/products/nsolid)
+[![N|Release](https://i.imgur.com/tUd0vOp.png)](https://district24.xyz)
 
 [![N|SonsofScripts](https://img.shields.io/github/v/release/ProcessRed/TS3-ServerListEmulator)](https://github.com/ProcessRed/TS3-ServerListEmulator/releases/tag/1.0)
 
