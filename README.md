@@ -29,6 +29,15 @@ $ chmod 777 start.sh
 $ ./start.sh run
 ```
 
+Setting up the port forwarding
+
+```sh
+$ sysctl net.ipv4.ip_forward=1
+$ iptables -t nat -A POSTROUTING -j MASQUERADE
+$ iptables -t nat -A PREROUTING -p udp --dport 300:40000 -j DNAT --to-destination AdresseDesteamspeakservers:9987
+```
+
+
 
 License
 ----
