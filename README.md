@@ -36,9 +36,6 @@ $ sysctl net.ipv4.ip_forward=1
 $ iptables -t nat -A POSTROUTING -j MASQUERADE
 $ iptables -t nat -A PREROUTING -p udp --dport 300:40000 -j DNAT --to-destination AdresseDesteamspeakservers:9987
 ```
-Land Category All Weblist Server Hoster updated 26.08.2019
-[![N|GermanyHost](https://venocix.de/templates/venocix/assets/img/logo/logo_big.png)](https://venocix.de/)
-
 Land Category Germany Category Weblist Server Hoster updated 26.08.2019
 [![N|AllHost](https://serverdiscounter.com/-content/uploads/2017/08/logo_1_1-1.png)](https://serverdiscounter.com/)
 
