@@ -36,8 +36,8 @@ $ sysctl net.ipv4.ip_forward=1
 $ iptables -t nat -A POSTROUTING -j MASQUERADE
 $ iptables -t nat -A PREROUTING -p udp --dport 300:40000 -j DNAT --to-destination AdresseDesteamspeakservers:9987
 ```
-Land Category Germany Category Weblist Server Hoster updated 26.08.2019
-[![N|AllHost](https://www.netcup.de/static/assets/images/netcup_logo_white.svg)
+Land Category Germany Category Weblist Server Hoster updated 20.03.2020
+[![N|AllHost](hhttps://www.netcup.de/static/assets/images/netcup_logo_white.svg)
 
 
 License
